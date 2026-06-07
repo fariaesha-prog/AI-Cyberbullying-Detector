@@ -1,7 +1,8 @@
-🛡️ CyberShield AI — Cyberbullying Detection System
+🛡️ CyberShield AI — Cyberbullying Detection System: 
+
 Real-time toxic comment detection using NLP and Machine Learning, built with Python.
 
-📌 Overview
+📌 Overview: 
 CyberShield AI is a machine learning project that automatically detects whether a comment is toxic or harmful. It analyzes text input and returns a verdict, confidence score, flagged terms, and a risk breakdown across multiple categories.
 
 🚀 Features
@@ -49,5 +50,5 @@ Metric: Precision, Recall, F1-Score (see classification_report output)
 - Add multilingual support
 - Deploy as a standalone web app
 
-👩‍💻 Author
+👩‍💻 Author: 
 Made by **Esha** as part of an AI/ML course project.
